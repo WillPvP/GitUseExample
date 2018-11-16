@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1044EA0219F5563007D24E8 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1044E9F219F5563007D24E8 /* MapForItinerary.swift */; };
 		B190AA36219CAD3B0019495E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B190AA35219CAD3B0019495E /* AppDelegate.swift */; };
 		B190AA38219CAD3B0019495E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B190AA37219CAD3B0019495E /* ViewController.swift */; };
 		B190AA3B219CAD3B0019495E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B190AA39219CAD3B0019495E /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B1044E9F219F5563007D24E8 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		B190AA32219CAD3B0019495E /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B190AA35219CAD3B0019495E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B190AA37219CAD3B0019495E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			children = (
 				B190AA35219CAD3B0019495E /* AppDelegate.swift */,
 				B190AA37219CAD3B0019495E /* ViewController.swift */,
+				B1044E9F219F5563007D24E8 /* MapForItinerary.swift */,
 				B190AA39219CAD3B0019495E /* Main.storyboard */,
 				B190AA3F219CAD3D0019495E /* Assets.xcassets */,
 				B190AA41219CAD3D0019495E /* LaunchScreen.storyboard */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1044EA0219F5563007D24E8 /* MapForItinerary.swift in Sources */,
 				B190AA38219CAD3B0019495E /* ViewController.swift in Sources */,
 				B190AA3E219CAD3B0019495E /* GitUseExample.xcdatamodeld in Sources */,
 				B190AA36219CAD3B0019495E /* AppDelegate.swift in Sources */,
